@@ -1,6 +1,6 @@
 ### Hi 👋
 ### I'm Quentin
-
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="auto" />
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Actura LIFE V2
@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 Languages and Tools:
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="auto" />
+
 <!--
 **Quentinjlard/quentinjlard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
