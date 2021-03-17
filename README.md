@@ -1,13 +1,16 @@
-### Hi 👋
-### I'm Quentin
+## Hello World ! 👋
+
+### Qui suis-je?
+- Je m'appelle Quentin, et je suis actuellement Etudiant en Licence Informatique à l'URCA.
+- 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="auto" />
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Actura LIFE V2
-- 🌱 I’m currently learning Java 
-- 📫 Dm me on Discord : Quentin (Fagston779)#0666
+### 📕 Dernières News
+- 🔭 Actuellement travail sur le prjet Actura LIFE V2 sur Arma 3
+- 🌱 J'apprend le JAVA ( IHM / Objet )
+- 📫 Mon discord : Quentin (Fagston779)#0666
 
-### ⚡ Languages and Tools:
+### ⚡ Language et outils:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
