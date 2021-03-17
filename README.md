@@ -10,10 +10,10 @@
 </a>
 <a href="https://www.linkedin.com/in/quentin-juilliard-469371181/">
   <img align="left" alt="Quentin | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+</a><br/>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="auto" />
-###
+
 ### 📕 Dernières News
 - 🔭 Actuellement travail sur le prjet Actura LIFE V2 sur Arma 3
 - 🌱 J'apprend le JAVA ( IHM / Objet )
