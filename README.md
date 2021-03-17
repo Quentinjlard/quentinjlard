@@ -2,6 +2,15 @@
 
 ### Qui suis-je?
 - Je m'appelle Quentin, et je suis actuellement Etudiant en Licence Informatique à l'URCA.
+<a href="https://discord.gg/users/152097808504193024">
+  <img align="left" alt="Mon discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com/quentin_jlard">
+  <img align="left" alt="Qentin | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/quentin-juilliard-469371181/">
+  <img align="left" alt="Quentin | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="auto" />
 
