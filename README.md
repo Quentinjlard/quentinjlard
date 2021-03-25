@@ -30,7 +30,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-[! [ Statistiques github d'Anurag ] (https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)] (https://github.com/Quentinjlard)
+[! [ Statistiques github d'Anurag ] (https://github-readme-stats.vercel.app/api?username=Quentinjlard&theme=blue-green)] (https://github.com/Quentinjlard)
 
 <!--
 **Quentinjlard/quentinjlard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
